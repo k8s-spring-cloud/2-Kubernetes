@@ -1,3 +1,9 @@
+# Social
+title:              WB3 K8s | Spring Cloud Scalable Starter
+description:        "Opinionated microservices reference architecture using Kubernetes, Spring Cloud, and HashiCorp technology."
+twitter:            wb3tech
+authors:            "Bill Bensing"
+
 theme: jekyll-theme-dinky
 plugins:
   - jekyll-feed
